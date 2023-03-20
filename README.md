@@ -7,7 +7,7 @@ I'm a computer science student who is passionate about search engines, FOSS, and
 - :sunrise_over_mountains: I enjoy bouldering, reading, and calligraphy.
 - 📫 How to reach me: [eebristow@protonmail.com](mailto:eebristow@protonmail.com) 
 
-I alsohttps://ctftime.org/team/217061 enjoy attending conferences! So far, I've attended:
+I also enjoy attending conferences! So far, I've attended:
 - DEFCON 30
 - SCaLE 20x
 
