@@ -12,5 +12,5 @@ I also enjoy attending conferences! So far, I've attended:
 - SCaLE 20x
 
 I'm a member of:
-- [cabal](https://cabal.cx/)
-- [trojan pwnies](https://ctftime.org/team/217061)
+- [cabal](https://cabal.cx/), a hacker collective combatting tech-enabled abuse
+- [trojan pwnies](https://ctftime.org/team/217061), USC's CTF team
