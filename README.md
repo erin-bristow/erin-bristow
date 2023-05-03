@@ -11,7 +11,7 @@ I also enjoy attending conferences! So far, I've attended:
 - DEFCON 30
 - SCaLE 20x
 - BSidesSF 2023
-- RASC 2023
+- RSAC 2023
 
 I'm a member of:
 - [cabal](https://cabal.cx/), a hacker collective combatting tech-enabled abuse
