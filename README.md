@@ -8,10 +8,11 @@ I'm a computer science student who is passionate about search engines, FOSS, and
 - 📫 How to reach me: [eebristow@protonmail.com](mailto:eebristow@protonmail.com) 
 
 I also enjoy attending conferences! So far, I've attended:
-- DEFCON 30
+- DEFCON 30, 31
 - SCaLE 20x
 - BSidesSF 2023
 - RSAC 2023
+- HushCon NYC 2023
 
 I'm a member of:
 - [cabal](https://cabal.cx/), a hacker collective combatting tech-enabled abuse
